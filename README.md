@@ -1,4 +1,4 @@
-# OpalProject
+# Opal Project
 Opal - Education Management Platform
 - [OpalUiLandingPage](https://github.com/jimmyyih518/OpalUiLandingPage)
 - [OpalUiHomePage](https://github.com/jimmyyih518/OpalUiHomePage)
